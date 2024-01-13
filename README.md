@@ -1,0 +1,1 @@
+# Generating-Synthetic-Finance-Data-using-GANs
